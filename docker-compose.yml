@@ -1,0 +1,13 @@
+version: '2'
+services:
+  virtuoso-taxonomy:
+    build: .
+    image: aokinobu/virtuoso-taxonomy:v0.1
+    ports:
+      - 1111:1111
+      - 8890:8890
+#    volumes:
+#      - /opt/virtuoso-taxonomy:/virtuoso
+#      - /etc/localtime:/etc/localtime
+#    restart: always
+#    network_mode: host
