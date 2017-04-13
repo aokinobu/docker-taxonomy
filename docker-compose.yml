@@ -2,7 +2,7 @@ version: '2'
 services:
   virtuoso-taxonomy:
     build: .
-    image: aokinobu/virtuoso-taxonomy:v0.1
+    image: aokinobu/virtuoso-taxonomy:v0.1-SNAPSHOT
     ports:
       - 1111:1111
       - 8890:8890
