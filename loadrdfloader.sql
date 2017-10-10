@@ -1,0 +1,1 @@
+LOAD rdfloader.sql;
