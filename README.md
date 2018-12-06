@@ -1,3 +1,5 @@
+[moved here](https://gitlab.com/aokinobu/docker-taxonomy)
+
 # docker-taxonomy
 docker image test of a pre-loaded virtuoso triplestore
 
